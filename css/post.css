@@ -1,0 +1,20 @@
+.post-container {
+  height: 50%;
+  width: 80%;
+  color: lightcoral;
+  position: static;
+}
+
+.post-comment {
+  position: relative;
+  height: 200px;
+  width: 80%;
+  color: lightgreen;
+}
+.new {
+  color: black;
+}
+
+.post-input {
+  position: absolute;
+}
